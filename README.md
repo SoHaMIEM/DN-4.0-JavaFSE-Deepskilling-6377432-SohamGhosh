@@ -1,6 +1,6 @@
 # DN-4.0-JavaFSE-Deepskilling-6377432-SohamGhosh
 
-This repository contains hands-on exercises and code samples for Java Full Stack Engineering, focusing on design patterns, principles, and data structures & algorithms.
+This repository contains hands-on exercises and code samples for Java Full Stack Engineering, focusing on design patterns, principles, data structures & algorithms, and advanced Java concepts.
 
 ## Getting Started
 
@@ -36,14 +36,28 @@ git clone https://github.com/SoHaMIEM/DN-4.0-JavaFSE-Deepskilling-6377432-SohamG
 - **E-Commerce Platform Search Function**: Linear and binary search implementations for product lookup.
 - **Financial Forecasting Tool**: Recursive approach to compound growth forecasting.
 
+---
+
+### Week 2: Advanced Java, TDD, Logging, and SQL
+
+- **PL/SQL Programming**: SQL scripts for control structures and stored procedures.
+- **Test-Driven Development (TDD) Using JUnit 5 and Mockito**: Unit testing and mocking examples.
+- **SLF4J Logging Framework**: Logging best practices in Java applications.
+
+  - JUnit and Mockito modules are available under `All-Weeks-Code/Week 2/Module 4/`.
+  - PL/SQL scripts are available under `All-Weeks-Code/Week 2/Module 3/`.
+
+---
+
 ## Questions
 
 The questions and exercises in this repository are based on the Cognizant Digital Nurture 4.0 Java FSE Deepskilling program materials. The original questions can be found [here](https://github.com/seshadrimr/Digital-Nurture-4.0-JavaFSE).
 
 
 *This repository is for educational purposes as part of the Java FSE Deepskilling program.*
+
 ## Contact Details :-
 
-Soham Ghosh
-sohghosh2003@gmail.com
+Soham Ghosh  
+sohghosh2003@gmail.com  
 +91 7980837255
