@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="spring-learn1/src/main/java"/>
+	<classpathentry kind="src" path="spring-learn1/src/test/java"/>
+	<classpathentry kind="src" path="spring-learn2/src/main/java"/>
+	<classpathentry kind="src" path="spring-learn2/src/test/java"/>
+	<classpathentry kind="src" path="spring-learn3/src/main/java"/>
+	<classpathentry kind="src" path="spring-learn3/src/test/java"/>
+	<classpathentry kind="src" path="spring-learn4/src/main/java"/>
+	<classpathentry kind="src" path="spring-learn4/src/test/java"/>
+	<classpathentry kind="src" path="spring-learn5/src/main/java"/>
+	<classpathentry kind="src" path="spring-learn5/src/test/java"/>
+	<classpathentry kind="src" path="spring-learn6/src/main/java"/>
+	<classpathentry kind="src" path="spring-learn6/src/test/java"/>
+	<classpathentry kind="lib" path="spring-learn1/target/spring-learn-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="spring-learn2/target/spring-learn-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="spring-learn3/target/spring-learn-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="spring-learn4/target/spring-learn-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="spring-learn5/target/spring-learn-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="spring-learn6/target/spring-learn-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="spring-learn1/target/classes"/>
+</classpath>
